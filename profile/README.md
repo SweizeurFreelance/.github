@@ -15,7 +15,7 @@ L'objectif de cette organisation est de :
 L'organisation est structurée en plusieurs dépôts, chacun correspondant à une mission ou un projet spécifique. Voici les grandes catégories que vous pouvez rencontrer :
 
 - **Applications web et mobile** : Dépôts contenant le backend, le frontend, ou des applications complètes.
-- **API et services** : Projets centrés sur la création d'API REST ou GraphQL.
+- **API et services** : Projets centrés sur la création d'API REST.
 - **Scripts et outils** : Scripts spécifiques développés pour répondre à des besoins techniques précis.
 - **Projets de test et R&D** : Prototypes ou projets expérimentaux réalisés pour valider des idées ou des concepts.
 
